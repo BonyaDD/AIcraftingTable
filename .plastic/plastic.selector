@@ -1,0 +1,4 @@
+repository "AIcraftingtable/AIcraftingtable@10171160670284@cloud"
+  path "/"
+    br "/main"
+    co "/main"
